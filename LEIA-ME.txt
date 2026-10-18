@@ -1,0 +1,24 @@
+PÁGINA MOBILE — PACK 900 REELS DE VIAGENS
+
+ARQUIVOS
+- index.html: versão focada em celular, com layout em uma coluna e galeria inicial compacta com três miniaturas.
+- assets/: três vídeos de exemplo e imagens de capa necessárias à página.
+
+COMO PUBLICAR
+1. Extraia o arquivo ZIP.
+2. Envie o index.html e a pasta assets juntos para sua hospedagem estática (por exemplo, Vercel ou Netlify).
+3. Abra a página em um celular e teste os três vídeos, os botões de compra e a navegação da primeira caixa.
+
+INTERAÇÃO DA PRIMEIRA CAIXA
+- Tocar na primeira caixa (a caixa escura no topo) rola suavemente até a caixa logo abaixo, que contém os três vídeos de exemplo.
+- O botão “QUERO ACESSAR OS 900 REELS” rola até a seção “Condição promocional”, onde aparecem os valores de R$ 67,50 e R$ 47,50.
+- Os botões de compra nas seções de oferta continuam direcionando ao checkout; a barra fixa inferior também leva ao checkout.
+
+CONFIGURAÇÕES
+- Checkout: https://pay.cakto.com.br/n652dv9_1131663
+- Meta Pixel: 1428482079221075
+- PageView ao abrir a página e InitiateCheckout ao clicar nos botões de compra.
+- Oferta mostrada: de R$ 67,50 por R$ 47,50.
+
+OBSERVAÇÃO
+O evento Purchase deve ser configurado na plataforma/checkout para registrar as compras confirmadas. Verifique as permissões de uso comercial do material antes de publicá-lo em anúncios.
